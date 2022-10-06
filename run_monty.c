@@ -61,6 +61,7 @@ int is_empty_line(char *line, char *delims)
 	}
 
 	return (1);
+
 }
 
 /**
